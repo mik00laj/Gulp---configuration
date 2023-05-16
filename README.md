@@ -1,4 +1,6 @@
 # Gulp---configuration
+![x](https://github.com/mik00laj/Gulp---configuration/assets/108618874/8aa400bf-deae-491c-8197-bc52f86c012b)
+
 Konfiguracja gulp.js
 
 - Krok 1:  Otwórz terminal i wpisz komnndę: npm i
