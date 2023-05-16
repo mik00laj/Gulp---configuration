@@ -2,8 +2,8 @@
 Konfiguracja gulp.js
 
 
-// series() - funckje są wykonywane jedna po drugiej - synchornicznie 
-// parallel() - funckje są wykonywane jednocześnie na raz - asynchronicznie 
+series() - funckje są wykonywane jedna po drugiej - synchornicznie 
+parallel() - funckje są wykonywane jednocześnie na raz - asynchronicznie 
 
 1) gulp -> narzędzie do automatyzacji zadań w środowisku Node.js. Umożliwia ono programistom tworzenie złożonych procesów budowania i wdrażania aplikacji internetowych.
 
