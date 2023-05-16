@@ -1,8 +1,8 @@
 # Gulp---configuration
 Konfiguracja gulp.js
 
-series() - funckje są wykonywane jedna po drugiej  synchornicznie 
-parallel() - funckje są wykonywane jednocześnie na raz  asynchronicznie 
+-> series() - funckje są wykonywane jedna po drugiej - synchornicznie 
+-> parallel() - funckje są wykonywane jednocześnie na raz - asynchronicznie 
 
 1) gulp -> narzędzie do automatyzacji zadań w środowisku Node.js. Umożliwia ono programistom tworzenie złożonych procesów budowania i wdrażania aplikacji internetowych.
 
@@ -22,7 +22,7 @@ parallel() - funckje są wykonywane jednocześnie na raz  asynchronicznie
 
 9) gulp-kit -> ułatwia pracę z szablonami HTML. Zapewnia możliwość tworzenia częściowych szablonów, importowania ich i używania w innych plikach HTML. gulp-kit oferuje też inne funkcje ułatwiające manipulację treścią i strukturą szablonów HTML.
 
-W folderze html umieszczamy pliki .kit(1.strona główna, 2.podstronny, 3.szablony) do pracy z kitem:
+W folderze html umieszczamy pliki .kit (1.strona główna, 2.podstronny, 3.szablony) do pracy z kitem:
 1)  index.kit
 2)  podstronna.kit
 3) _szablon.kit  np. _naw.kitm _footer.kit
