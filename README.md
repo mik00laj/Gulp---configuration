@@ -33,9 +33,10 @@ Konfiguracja gulp.js
 W folderze html umieszczamy pliki .kit (1.strona główna, 2.podstronny, 3.szablony) do pracy z kitem:
 1)  index.kit
 2)  podstronna.kit
-3) _szablon.kit  np. _naw.kit _footer.kit
-   - Improtujemy szablony do strony głównej lub podstrony za pomocą include/import 
-    <!-- @include 'nav.kit' -->   <!-- @import 'footer.kit' -->
+3) _szablon.kit  
+- ![image](https://github.com/mik00laj/Gulp---configuration/assets/108618874/8c4e9b99-77db-4708-8193-9c43d547d779)
+- Improtujemy szablony do strony głównej lub podstrony za pomocą include/import 
+- ![image](https://github.com/mik00laj/Gulp---configuration/assets/108618874/ee1c48d2-6bbc-4612-bc14-cc0e9a2b32e9)
 
 *** Do pracy z kitem należy odkomentować linijke 77 i zakomentować linijkie 75 ***
 
