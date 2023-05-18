@@ -2,9 +2,10 @@
 ![x](https://github.com/mik00laj/Gulp---configuration/assets/108618874/8aa400bf-deae-491c-8197-bc52f86c012b)
 
 Konfiguracja gulp.js
-
-- Krok 1:  Otwórz terminal i wpisz komnndę: npm i
-- Krok 2: Stwórz następującą strukturę plików  
+- Krok 1: zainstaluj Node.js https://nodejs.org/en/download
+- Krok 2: zainstaluj Gulp https://gulpjs.com/docs/en/getting-started/quick-start/
+- Krok 3:  Otwórz terminal i wpisz komnndę: npm i
+- Krok 4: Stwórz następującą strukturę plików  
 ![image](https://github.com/mik00laj/Gulp---configuration/assets/108618874/47ce5279-10f0-4e6a-af5c-490d29773cd1)
 
 
